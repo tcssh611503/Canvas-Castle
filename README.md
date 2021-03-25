@@ -1,6 +1,6 @@
 # Canvas-Castle
 
-[Canvas-Castle](https://tcssh611503.github.io/Canvas-Castle/index.html/)
+[Canvas-Castle](https://tcssh611503.github.io/Canvas-Castle/index.html)
 
 ![](https://i.imgur.com/vaHY8oP.png)
 
